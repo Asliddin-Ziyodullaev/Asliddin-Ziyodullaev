@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-  <a href="https://github.com/jav140" target="_self">
+  <a href="https://github.com/Asliddin-Ziyodullaev" target="_self">
     <img alt="GIF" src="https://cdn.dribbble.com/users/444644/screenshots/11207045/media/5bf9aeb32e7ba10007eefc74474211e7.gif" width="100%"">
   </a>
 </h1>
