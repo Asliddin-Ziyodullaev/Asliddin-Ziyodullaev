@@ -100,12 +100,12 @@
 
 ### :fire: My Github Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asliddin-Ziyodullaev&theme=dark&background=000000)](https://github.com/jav140/)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asliddin-Ziyodullaev&theme=dark&background=000000)](https://github.com/Asliddin-Ziyodullaev/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asliddin-Ziyodullaev&theme=dark&background=000000"
     alt="adam-pw" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asliddin-Ziyodullaev&theme=dark&background=000000)](https://github.com/jav140/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asliddin-Ziyodullaev&theme=dark&background=000000)](https://github.com/Asliddin-Ziyodullaev/)
 
 </div>
 
